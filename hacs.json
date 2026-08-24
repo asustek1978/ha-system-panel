@@ -1,0 +1,7 @@
+{
+  "name": "HA System Panel",
+  "filename": "ha-system-panel.js",
+  "content_in_root": true,
+  "zip_release": false,
+  "render_readme": true
+}
