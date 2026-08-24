@@ -1,0 +1,7 @@
+panel_custom:
+  - name: ha-system-panel
+    sidebar_title: "Система"
+    sidebar_icon: mdi:server
+    url_path: system-panel
+    module_url: /local/community/ha-system-panel/ha-system-panel.js
+    require_admin: true
